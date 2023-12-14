@@ -1,0 +1,22 @@
+  /* blog previews /list */
+
+  .blogpreview 
+  {
+      padding: 10px 16px;
+      margin: 20px 0;
+      border-bottom: 1px solid #fafafa;
+  }
+  .blogpreview:hover 
+  {
+      box-shadow: 1px 3px 5px Orgba(0,e,e,e.1);
+  }
+  .blogpreview h2 
+  {
+      font-size: 20px;
+      color: #f1356d;
+      margin-bottom: 8px;
+  }
+  
+  .blogpreview a{
+    text-decoration: none;
+  }

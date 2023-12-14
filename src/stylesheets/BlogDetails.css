@@ -1,0 +1,23 @@
+/* blog details page */
+.blogdetails h2 {
+    font-size: 20px;
+    color:#f1356d;
+    margin-bottom: 10px;
+  }  
+  .blogdetails div
+  {
+    margin: 20px 0;
+  }
+  .b1 {
+    background:#f1356d;
+    color:#fff;
+    border: 0;
+    padding: 8px;
+    border-radius: 8px;
+    cursor: pointer;
+ }
+ .b2{
+    margin-left: 10px;
+    text-decoration: none;
+    font-size: 13px;
+ }
